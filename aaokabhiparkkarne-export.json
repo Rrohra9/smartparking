@@ -1,0 +1,23 @@
+{
+  "instructions" : {
+    "slot1" : {
+      "instruct" : "1) go left 2) go right"
+    },
+    "slot2" : {
+      "instruct" : "1)go straight 2)go left"
+    },
+    "slot3" : {
+      "instruct" : "1)go reverse 2)go right"
+    },
+    "slot4" : {
+      "instruct" : "1)go right 2)go left"
+    }
+  },
+  "users" : {
+    "MmFURWN0Fwci3qjqqkxI3XDIfHR2" : {
+      "bookedslot" : "slot2",
+      "plateno" : "Enter your vehicle plate no.",
+      "userID" : "MmFURWN0Fwci3qjqqkxI3XDIfHR2"
+    }
+  }
+}
